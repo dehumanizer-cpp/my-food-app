@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.link-item{
+    @apply hover:text-orange-400 transition duration-300 ease-in-out;
+}
